@@ -1,3 +1,7 @@
+## CSV TO JSON
+
+Clone this repo or download the project as a zip (and unzip it). Go to the project with the command line to get started.
+
 ## Getting started
 
 First, you'll need to start your server. You do this by running `npm install` followed by `npm start` in the root of your project.
